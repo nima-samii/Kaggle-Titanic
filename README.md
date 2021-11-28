@@ -3,8 +3,6 @@
 ## Overview
 This is my first attempt at Kaggle's beginner machine learning competition.
 
-I got help from this Kernel to do this competition: https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner/notebook
-
 Titanic competition: https://www.kaggle.com/c/titanic
 
 ## Tools Used
